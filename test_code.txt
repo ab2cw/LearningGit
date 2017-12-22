@@ -1,7 +1,8 @@
 This is a testing file for learning how to work with Git Hub
 
 def function A(){
-  // do sth
+  // do sth here
+  // this is the first revision made
 }
 
 // END
