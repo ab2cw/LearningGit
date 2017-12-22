@@ -1,0 +1,7 @@
+This is a testing file for learning how to work with Git Hub
+
+def function A(){
+  // do sth
+}
+
+// END
